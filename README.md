@@ -3,7 +3,9 @@
 
 - 🔭 Actualmente trabajo en [Asincode](https://github.com/asincode-sas)
 
-- 🌱 I’m currently learning **desarrollo FrontEnd**
+- 🌱 Actualmente estoy aprendiendo **desarrollo FrontEnd**
+
+- 🪬 Deseo ser desarrollador FullStack
 
 <hr>
 
@@ -12,7 +14,7 @@
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jacoblm49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacoblm49" height="30" width="40" /></a>
 <a href="https://instagram.com/yeicob__sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeicob__sw" height="30" width="40" /></a>
