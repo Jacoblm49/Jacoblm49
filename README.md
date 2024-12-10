@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo en [Asincode](https://github.com/asincode-sas)
 
-- 🌱 Actualmente estoy aprendiendo **desarrollo FrontEnd**
+- 🌱 Actualmente soy  **desarrollador FrontEnd Trainee**
 
 - 🪬 Deseo ser desarrollador FullStack
 
