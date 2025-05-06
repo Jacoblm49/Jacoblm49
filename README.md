@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">- 🔭 Actualmente trabajo en [Asincode](https://github.com/asincode-sas)<br><br>- 🌱 Actualmente soy   desarrollador FrontEnd Trainee<br><br>- 🪬 Deseo ser desarrollador FullStack<br><br>- Pasion por el arte, musica, cultura, juventud y todo lo que haga sentir vivo ☀️</p>
+<p align="left">- 🔭 Actualmente trabajo en [Asincode](https://github.com/asincode-sas)<br><br>- 🌱 Actualmente soy   desarrollador FrontEnd Junior y Diseñador UI-UX<br><br>- 🪬 Deseo ser desarrollador FullStack<br><br>- Pasion por el arte, musica, cultura, juventud y todo lo que haga sentir vivo ☀️</p>
 
 ###
 
